@@ -3,13 +3,13 @@
 
 This project was originally developed in collaboration with Delphin Kaduli and Solomon Pinto.
 
-**My contributions:**  
--**Conducted experiments on an undersampled dataset (1 million rows), increasing the fraud ratio from 0.01% to 3.5% to improve model training.
--**Cleaned and preprocessed the data to ensure consistency and quality.
--**Engineered 40 new features to enhance predictive performance.
--**Tested various techniques to handle data imbalance, including SMOTE at different fraud levels and class weighting.
--**Built and evaluated multiple models independently: logistic regression, tree-based models, neural networks, and ensemble methods.
--**Personally built, selected and finalized the best-performing model, which was used in the final project presentation.
+## My contributions:
+- **Conducted experiments on an undersampled dataset (1 million rows), increasing the fraud ratio from 0.01% to 3.5% to improve model training.
+- **Cleaned and preprocessed the data to ensure consistency and quality.
+- **Engineered 40 new features to enhance predictive performance.
+- **Tested various techniques to handle data imbalance, including SMOTE at different fraud levels and class weighting.
+- **Built and evaluated multiple models independently: logistic regression, tree-based models, neural networks, and ensemble methods.
+- **Personally built, selected and finalized the best-performing model, which was used in the final project presentation.
 
 ## Project Overview
 A machine learning-powered Anti-Money Laundering (AML) detection system with an interactive Streamlit dashboard. Built using IBM's Synthetic AML Dataset (31.9M transactions), this system achieves **73% precision** and **ROC-AUC 97.8%**, making it production-ready for banking compliance teams.
